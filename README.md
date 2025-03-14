@@ -1,19 +1,21 @@
-Conversational AI Data Science Tutor 🤖📊
-📌 Overview
-This project is a Conversational AI Tutor built with Google Gemini 1.5 Pro, LangChain, and Streamlit. It is designed to answer only Data Science-related questions, providing an interactive learning experience.
+# **Conversational AI Data Science Tutor** 🤖📊  
 
-🚀 Features
-✅ Conversational Memory: Retains session history using SQLite
-✅ Intelligent Responses: Uses Google Generative AI API for accurate answers
-✅ Focused on Data Science: Restricts responses to ML, AI, SQL, Python, and analytics
-✅ Interactive UI: Built using Streamlit for a smooth user experience
-✅ Session Management: Generates unique session IDs for each user
+## 📌 Overview  
+The **Conversational AI Data Science Tutor** is an AI-powered chatbot designed to assist users in learning and understanding **Data Science concepts**. It provides **accurate, context-aware responses** and **retains chat history** for a personalized experience.  
 
-🛠 Tech Stack
-LangChain – Handles conversational flow
-Google Gemini 1.5 Pro – Powers AI responses
-Streamlit – Provides an intuitive UI
-SQLite – Stores chat history
-Python – Backend logic
+## 🚀 Features  
+- ✅ **Conversational Memory** – Stores and retrieves chat history using **SQLite**  
+- ✅ **Data Science-Focused** – Restricts responses to **ML, AI, Python, SQL, and Data Analysis**  
+- ✅ **Built with LangChain** – Ensures structured conversations  
+- ✅ **Google Gemini 1.5 Pro** – Provides intelligent responses  
+- ✅ **Streamlit UI** – Interactive and user-friendly interface  
+- ✅ **Session Management** – Generates a unique **session ID** for each user  
+
+## 🛠 Tech Stack  
+- **LangChain** – Manages chat flow and memory  
+- **Google Gemini 1.5 Pro** – AI model for answering queries  
+- **Streamlit** – Provides a simple and elegant UI  
+- **SQLite** – Stores chat history for continuity  
+- **Python** – Used for backend scripting  
 
 Hugging-Face Link:https://huggingface.co/spaces/Mpavan45/Ai_Data-Science_Tutor
